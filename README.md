@@ -39,8 +39,7 @@ collate_fn 함수는 premise와 hypothesis를 결합하여 [SEP] 토큰으로 �
 3. **Generalization 성능**  
    - Pre-trained 모델은 validation과 test dataset에서 더 높은 generalization 성능을 보였습니다. 
   
-
-- 이미지 첨부시 : ![전체 결과 비교](<img width="659" alt="image" src="https://github.com/user-attachments/assets/b6c1b649-1891-4640-991a-661f92788aa5" />)
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/17066174-7dcd-4a4a-b890-98cb5b68f5a5" />
 
 ### 위의 사항들을 구현하고 나온 결과들을 정리한 보고서를 README.md 형태로 업로드
 ### 코드 및 실행 결과는 jupyter notebook 형태로 같이 public github repository에 업로드하여 공유해주시면 됩니다(반드시 출력 결과가 남아있어야 합니다!!) 
