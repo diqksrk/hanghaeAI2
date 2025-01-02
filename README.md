@@ -1,5 +1,5 @@
 Multi-genre natural language inference(MNLI)를 해결했습니다. <br/>
-[homework_advance_mnl](https://github.com/diqksrk/hanghaeAI2/blob/main/homework_advance_mnli.ipynb) 파일 참조
+[실행 결과 -> homework_advance_mnl.ipynb](https://github.com/diqksrk/hanghaeAI2/blob/main/homework_advance_mnli.ipynb) 파일 참조
 
 ## Q1) 어떤 task를 선택하셨나요?
 > MNLI 를 선택하였습니다.
