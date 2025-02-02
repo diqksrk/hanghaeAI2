@@ -1,0 +1,402 @@
+[
+    {
+        "instruction": "Translate the following sentence into French.",
+        "input": "Good morning everyone.",
+        "output": "Bonjour à tous."
+    },
+    {
+        "instruction": "Summarize the following paragraph.",
+        "input": "The economic growth this year was driven by technology and manufacturing sectors.",
+        "output": "Economic growth was driven by technology and manufacturing."
+    },
+    {
+        "instruction": "Convert the following sentence into passive voice.",
+        "input": "The chef prepared a delicious meal.",
+        "output": "A delicious meal was prepared by the chef."
+    },
+    {
+        "instruction": "Identify the sentiment of the following sentence.",
+        "input": "I am not happy with the service.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Extract the names from the following text.",
+        "input": "John, Sarah, and Michael went hiking.",
+        "output": "John, Sarah, Michael"
+    },
+    {
+        "instruction": "Convert the given temperature from Celsius to Fahrenheit.",
+        "input": "0°C",
+        "output": "32°F"
+    },
+    {
+        "instruction": "Generate a short story based on the following prompt.",
+        "input": "A mysterious door appears in the middle of a forest.",
+        "output": "Deep in the forest, a hidden door revealed secrets of an ancient civilization."
+    },
+    {
+        "instruction": "Provide a synonym for the given word.",
+        "input": "Quick",
+        "output": "Fast"
+    },
+    {
+        "instruction": "Classify the following text into one of the categories: sports, politics, entertainment.",
+        "input": "The government announced new environmental policies.",
+        "output": "Politics"
+    },
+    {
+        "instruction": "Identify the grammatical error in the following sentence.",
+        "input": "They goes to school every day.",
+        "output": "Subject-verb agreement error: 'goes' should be 'go'."
+    },
+    {
+        "instruction": "What is the capital of Germany?",
+        "input": "",
+        "output": "Berlin"
+    },
+    {
+        "instruction": "Translate the following to Spanish.",
+        "input": "Good night, sleep well.",
+        "output": "Buenas noches, que duermas bien."
+    },
+    {
+        "instruction": "Summarize the following text.",
+        "input": "The new smartphone features an advanced camera and a long-lasting battery.",
+        "output": "The smartphone has an advanced camera and long battery life."
+    },
+    {
+        "instruction": "Convert the following to passive voice.",
+        "input": "The scientist discovered a new element.",
+        "output": "A new element was discovered by the scientist."
+    },
+    {
+        "instruction": "Classify the following sentence as positive or negative sentiment.",
+        "input": "The movie was utterly disappointing.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Solve the following math problem.",
+        "input": "What is 15 - 7?",
+        "output": "8"
+    },
+    {
+        "instruction": "Write a Python function to calculate the factorial of a number.",
+        "input": "",
+        "output": "def factorial(n): return 1 if n==0 else n*factorial(n-1)"
+    },
+    {
+        "instruction": "What is the boiling point of water in Fahrenheit?",
+        "input": "",
+        "output": "212°F"
+    },
+    {
+        "instruction": "Who painted the Mona Lisa?",
+        "input": "",
+        "output": "Leonardo da Vinci"
+    },
+    {
+        "instruction": "Identify the logical fallacy in this statement.",
+        "input": "You must agree with me, otherwise you are wrong.",
+        "output": "False dilemma"
+    },
+    {
+        "instruction": "Write a haiku about autumn.",
+        "input": "",
+        "output": "Leaves fall silently,\nWhispers of wind in cool air,\nAutumn paints the earth."
+    },
+    {
+        "instruction": "List three famous scientists.",
+        "input": "",
+        "output": "Albert Einstein, Marie Curie, Isaac Newton"
+    },
+    {
+        "instruction": "Translate the following sentence into Japanese.",
+        "input": "I enjoy reading books.",
+        "output": "私は本を読むのが好きです。"
+    },
+    {
+        "instruction": "What is the tallest mountain in the world?",
+        "input": "",
+        "output": "Mount Everest"
+    },
+    {
+        "instruction": "Describe the taste of strawberries.",
+        "input": "",
+        "output": "Strawberries are sweet with a hint of tartness."
+    },
+    {
+        "instruction": "Identify the emotion in the following sentence.",
+        "input": "I was overwhelmed with joy when I saw the surprise party.",
+        "output": "Happiness"
+    },
+    {
+        "instruction": "List three common machine learning algorithms.",
+        "input": "",
+        "output": "Linear Regression, Decision Trees, K-Nearest Neighbors"
+    },
+    {
+        "instruction": "What is the square root of 144?",
+        "input": "",
+        "output": "12"
+    },
+    {
+        "instruction": "Summarize the given passage.",
+        "input": "The solar system consists of the Sun and the objects that orbit it, including planets, moons, asteroids, and comets.",
+        "output": "The solar system includes the Sun and orbiting celestial bodies."
+    },
+    {
+        "instruction": "Convert the following Python code to JavaScript.",
+        "input": "def multiply(a, b): return a * b",
+        "output": "function multiply(a, b) { return a * b; }"
+    },
+    {
+        "instruction": "Write a function to check if a string is a palindrome in Python.",
+        "input": "",
+        "output": "def is_palindrome(s): return s == s[::-1]"
+    },
+    {
+        "instruction": "Identify the literary device used in the following sentence.",
+        "input": "The wind whispered through the trees.",
+        "output": "Personification"
+    },
+    {
+        "instruction": "Provide an antonym for the word 'ancient'.",
+        "input": "",
+        "output": "Modern"
+    },
+    {
+        "instruction": "Provide an example of an isogram.",
+        "input": "",
+        "output": "subway"
+    },
+    {
+        "instruction": "Convert the following decimal number to hexadecimal.",
+        "input": "255",
+        "output": "FF"
+    },
+    {
+        "instruction": "Who is the author of '1984'?",
+        "input": "",
+        "output": "George Orwell"
+    },
+    {
+        "instruction": "List three types of non-renewable energy.",
+        "input": "",
+        "output": "Coal, Oil, Natural Gas"
+    },
+    {
+        "instruction": "What is the speed of sound?",
+        "input": "",
+        "output": "343 meters per second"
+    },
+    {
+        "instruction": "Describe the function of the lungs.",
+        "input": "",
+        "output": "The lungs facilitate the exchange of oxygen and carbon dioxide."
+    },
+    {
+        "instruction": "Write a SQL query to retrieve the names of all employees from a table called 'employees'.",
+        "input": "",
+        "output": "SELECT name FROM employees;"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'ephemeral'.",
+        "input": "",
+        "output": "The beauty of the sunset is truly ephemeral."
+    },
+    {
+        "instruction": "Identify the smallest planet in our solar system.",
+        "input": "",
+        "output": "Mercury"
+    },
+    {
+        "instruction": "Provide the formula for calculating the circumference of a circle.",
+        "input": "",
+        "output": "Circumference = 2 × π × radius"
+    },
+    {
+        "instruction": "What is the powerhouse of the cell?",
+        "input": "",
+        "output": "Mitochondria"
+    },
+    {
+        "instruction": "Explain the law of conservation of energy.",
+        "input": "",
+        "output": "Energy cannot be created or destroyed, only transformed."
+    },
+    {
+        "instruction": "List three programming paradigms.",
+        "input": "",
+        "output": "Procedural, Object-Oriented, Functional"
+    },
+    {
+        "instruction": "Identify the capital of Italy.",
+        "input": "",
+        "output": "Rome"
+    },
+    {
+        "instruction": "Convert the given temperature from Kelvin to Celsius.",
+        "input": "300K",
+        "output": "26.85°C"
+    },
+    {
+        "instruction": "Summarize the following article in one sentence.",
+        "input": "Climate change is affecting weather patterns and causing more extreme weather events.",
+        "output": "Climate change is leading to more extreme weather."
+    },
+    {
+        "instruction": "Write a Python function to check if a number is prime.",
+        "input": "",
+        "output": "def is_prime(n):\n    if n < 2:\n        return False\n    for i in range(2, int(n**0.5)+1):\n        if n % i == 0:\n            return False\n    return True"
+    },
+    {
+        "instruction": "Translate the following sentence into German.",
+        "input": "How are you doing today?",
+        "output": "Wie geht es dir heute?"
+    },
+    {
+        "instruction": "Summarize the following text.",
+        "input": "The concert featured a mix of classical and modern music, pleasing audiences of all ages.",
+        "output": "The concert blended classical and modern music to please a diverse audience."
+    },
+    {
+        "instruction": "Convert the following sentence into passive voice.",
+        "input": "The committee approved the new policy.",
+        "output": "The new policy was approved by the committee."
+    },
+    {
+        "instruction": "Identify the sentiment of the following sentence.",
+        "input": "The service at the hotel was excellent.",
+        "output": "Positive"
+    },
+    {
+        "instruction": "Extract the organizations mentioned in the text.",
+        "input": "Google, Microsoft, and Apple are major tech companies.",
+        "output": "Google, Microsoft, Apple"
+    },
+    {
+        "instruction": "Convert the given weight from kilograms to pounds.",
+        "input": "10 kg",
+        "output": "22.05 lbs"
+    },
+    {
+        "instruction": "Generate a short mystery story based on the prompt.",
+        "input": "A detective finds an unusual clue at a crime scene.",
+        "output": "In the dead of night, the detective uncovered a clue that would unravel the mystery of the missing artifact."
+    },
+    {
+        "instruction": "Provide a synonym for the word 'angry'.",
+        "input": "",
+        "output": "Furious"
+    },
+    {
+        "instruction": "Classify the following text into one of the categories: health, technology, finance.",
+        "input": "The startup is revolutionizing the way we store data.",
+        "output": "Technology"
+    },
+    {
+        "instruction": "Identify the grammatical error in the following sentence.",
+        "input": "He don't like playing football.",
+        "output": "Incorrect verb form: 'don't' should be 'doesn't'."
+    },
+    {
+        "instruction": "What is the capital of Spain?",
+        "input": "",
+        "output": "Madrid"
+    },
+    {
+        "instruction": "Translate the following to Italian.",
+        "input": "Thank you very much.",
+        "output": "Grazie mille."
+    },
+    {
+        "instruction": "Summarize the following text.",
+        "input": "The latest update includes numerous bug fixes and performance improvements for the application.",
+        "output": "The update improves performance and fixes bugs."
+    },
+    {
+        "instruction": "Convert the following sentence into passive voice.",
+        "input": "The artist painted a stunning mural.",
+        "output": "A stunning mural was painted by the artist."
+    },
+    {
+        "instruction": "Classify the following sentence as positive or negative sentiment.",
+        "input": "The weather ruined our picnic plans.",
+        "output": "Negative"
+    },
+    {
+        "instruction": "Solve the following math problem.",
+        "input": "What is 9 x 7?",
+        "output": "63"
+    },
+    {
+        "instruction": "Write a Python function to reverse a list.",
+        "input": "",
+        "output": "def reverse_list(lst): return lst[::-1]"
+    },
+    {
+        "instruction": "What is the freezing point of water in Fahrenheit?",
+        "input": "",
+        "output": "32°F"
+    },
+    {
+        "instruction": "Who wrote 'The Great Gatsby'?",
+        "input": "",
+        "output": "F. Scott Fitzgerald"
+    },
+    {
+        "instruction": "Identify the logical fallacy in this statement.",
+        "input": "If you disagree with our policy, you are unpatriotic.",
+        "output": "Ad hominem"
+    },
+    {
+        "instruction": "Write a haiku about winter.",
+        "input": "",
+        "output": "Snow blankets the earth,\nSilence in frosty moonlight,\nWinter whispers soft."
+    },
+    {
+        "instruction": "List three famous painters.",
+        "input": "",
+        "output": "Vincent van Gogh, Pablo Picasso, Claude Monet"
+    },
+    {
+        "instruction": "Translate the following sentence into Korean.",
+        "input": "I am learning to code.",
+        "output": "나는 코딩을 배우고 있다."
+    },
+    {
+        "instruction": "What is the largest ocean on Earth?",
+        "input": "",
+        "output": "Pacific Ocean"
+    },
+    {
+        "instruction": "Describe the flavor of vanilla ice cream.",
+        "input": "",
+        "output": "Vanilla ice cream is creamy and sweet with a rich vanilla flavor."
+    },
+    {
+        "instruction": "Identify the emotion in the following sentence.",
+        "input": "Tears streamed down her face as she read the letter.",
+        "output": "Sadness"
+    },
+    {
+        "instruction": "List three common data structures.",
+        "input": "",
+        "output": "Array, Linked List, Binary Tree"
+    },
+    {
+        "instruction": "What is the square root of 64?",
+        "input": "",
+        "output": "8"
+    },
+    {
+        "instruction": "Summarize the given passage.",
+        "input": "Globalization has led to increased cultural exchange and economic integration among countries.",
+        "output": "Globalization promotes cultural exchange and economic integration."
+    },
+    {
+        "instruction": "Convert the following Python code to Ruby.",
+        "input": "def greet(name): return 'Hello ' + name",
+        "output": "def greet(name)\n  'Hello ' + name\nend"
+    }
+]

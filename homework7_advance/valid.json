@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "Write a function to count the number of vowels in a string in Python.",
+        "input": "",
+        "output": "def count_vowels(s):\n    return sum(1 for char in s.lower() if char in 'aeiou')"
+    },
+    {
+        "instruction": "Identify the literary device used in the following sentence.",
+        "input": "Her smile was as bright as the sun.",
+        "output": "Simile"
+    },
+    {
+        "instruction": "Provide an antonym for the word 'noisy'.",
+        "input": "",
+        "output": "Quiet"
+    },
+    {
+        "instruction": "Provide an example of an acrostic.",
+        "input": "",
+        "output": "Sunshine\nUnderneath\nNightfall\nDreams"
+    },
+    {
+        "instruction": "Convert the following binary number to decimal.",
+        "input": "1101",
+        "output": "13"
+    },
+    {
+        "instruction": "Who is the author of 'Moby Dick'?",
+        "input": "",
+        "output": "Herman Melville"
+    },
+    {
+        "instruction": "List three renewable energy sources.",
+        "input": "",
+        "output": "Solar, Wind, Hydroelectric"
+    },
+    {
+        "instruction": "What is the acceleration due to gravity on Earth?",
+        "input": "",
+        "output": "9.8 m/s²"
+    },
+    {
+        "instruction": "Describe the function of the brain.",
+        "input": "",
+        "output": "The brain controls bodily functions and processes information."
+    },
+    {
+        "instruction": "Write a SQL query to select the age of users from a table named 'users'.",
+        "input": "",
+        "output": "SELECT age FROM users;"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'ineffable'.",
+        "input": "",
+        "output": "The beauty of the sunrise was ineffable, leaving everyone in silent awe."
+    },
+    {
+        "instruction": "Identify the second largest planet in our solar system.",
+        "input": "",
+        "output": "Saturn"
+    },
+    {
+        "instruction": "Provide the formula for calculating the area of a circle.",
+        "input": "",
+        "output": "Area = π × radius²"
+    },
+    {
+        "instruction": "What is the powerhouse of the cell?",
+        "input": "",
+        "output": "Mitochondria"
+    },
+    {
+        "instruction": "Explain the principle of supply and demand.",
+        "input": "",
+        "output": "The price of a good rises when demand exceeds supply and falls when supply exceeds demand."
+    },
+    {
+        "instruction": "List three web development frameworks.",
+        "input": "",
+        "output": "Django, Ruby on Rails, Laravel"
+    },
+    {
+        "instruction": "Identify the capital of Australia.",
+        "input": "",
+        "output": "Canberra"
+    },
+    {
+        "instruction": "Convert the given temperature from Celsius to Kelvin.",
+        "input": "25°C",
+        "output": "298.15K"
+    },
+    {
+        "instruction": "Summarize the following article in one sentence.",
+        "input": "The global market is experiencing rapid changes due to technological advancements.",
+        "output": "Technological advancements are rapidly changing the global market."
+    },
+    {
+        "instruction": "Write a Python function to check if a list is sorted.",
+        "input": "",
+        "output": "def is_sorted(lst):\n    return all(lst[i] <= lst[i+1] for i in range(len(lst)-1))"
+    }
+]
