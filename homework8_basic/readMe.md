@@ -3,7 +3,7 @@
 ### 학습 환경
 1. 20000개의 데이터 중 100개를 Train, Validation DataSet으로 활용
 2. Epoch는 30 Epoch까지만 반복
-3. esla T4 GPU 2EA, GPUMemory 32GB, vCPU 32EA, Memory 160GB, [SSD]Disk 50GB 환경에서 실행
+3. Tesla T4 GPU 2EA, GPUMemory 32GB, vCPU 32EA, Memory 160GB, [SSD]Disk 50GB 환경에서 실행
 4. batch_size는 8, block size는 1024의 환경에서 실행
 
 ### 결과
