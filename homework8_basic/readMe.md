@@ -8,7 +8,7 @@
 
 ### 결과
 
-| LoRA Lank | Final Loss | Trainning | Max GPU Memory (GB) |
+| LoRA Lank | Final Loss | Trainning Time (s) | Max GPU Memory (GB) |
 |----------|----------|----------|----------|
 | 8 | 9.895 | 250.672 | 2.6 |
 | 128 | 10.099 | 283.758 | 2.7 |
